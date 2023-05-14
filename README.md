@@ -3,6 +3,7 @@
 Required node version: 
 
 ```
+v18.15.0
 ```
 
 Make sure that you got Yarn installed in your system
